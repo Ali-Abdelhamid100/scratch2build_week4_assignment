@@ -27,5 +27,3 @@ HTML5 · CSS3 · JavaScript (ES6+) · Git & GitHub
 - Every feature lives on its own `feature/*` branch with small, descriptive commits.
 - Changes reach `main` only through a Pull Request.
 
-## Author
-Khaled — [LinkedIn](https://www.linkedin.com/in/khaledamrsakr)
